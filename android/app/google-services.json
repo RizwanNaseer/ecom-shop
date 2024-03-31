@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85178257984",
+    "project_id": "mycomm-d242a",
+    "storage_bucket": "mycomm-d242a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85178257984:android:b537c891449423081405a5",
+        "android_client_info": {
+          "package_name": "com.example.my_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGC7mz7KehYtbdKY9iuU_KrPQgzuEgCGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
